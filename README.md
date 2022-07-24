@@ -24,7 +24,7 @@ Este repositorio guarda la actividad número 4, el cual abarca los temas de estr
 
 ![captura-3.2-web](https://user-images.githubusercontent.com/105325621/180632772-df89c401-6d15-4d9e-95ee-71ac85dbcedf.png)
 
-###Tip para entender los porcentajes: Si ponemos que hay 3 hombres y 3 mujeres nos debe de salir que hay 50% (la mitad del 100%) hombres y 50% (la otra mitad) mujeres.
+Tip para entender los porcentajes: Si ponemos que hay 3 hombres y 3 mujeres nos debe de salir que hay 50% (la mitad del 100%) hombres y 50% (la otra mitad) mujeres.
 
 ### Actividad 4: implementar una calculadora de las cuatro operaciones básicas y que le permita al usuario elegir qué operación va a realizar; con palabras, es decir: sumar, restar, multiplicar o dividir.
 
@@ -33,7 +33,7 @@ Este repositorio guarda la actividad número 4, el cual abarca los temas de estr
 ![captura-4-web](https://user-images.githubusercontent.com/105325621/180632850-035f5aed-d75f-475c-915d-0eaffa02d481.png)
 
 
-###Plus: Cuando el programa pregunta por la operación que se desea realizar, usted como usuario puede ingresar las palabras de la siguiente manera (Sumar, RESTAR, MULtiplicar, DiViDir), puesto que cuenta con un metodo que convierte toda la palabra en minusculas para evitar errores.
+Plus: Cuando el programa pregunta por la operación que se desea realizar, usted como usuario puede ingresar las palabras de la siguiente manera (Sumar, RESTAR, MULtiplicar, DiViDir), puesto que cuenta con un metodo que convierte toda la palabra en minusculas para evitar errores.
 
 
 
