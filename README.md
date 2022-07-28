@@ -1,4 +1,4 @@
-# actividad_4_js_juan_valencia
+# Actividad 4
 Este repositorio guarda la actividad número 4, el cual abarca los temas de estructuras condicional if, variables, constantes y operadores en JavaScript.
 
 ## Fotos:
